@@ -1,37 +1,17 @@
-# Consciousness Beyond Illusion
+# Consciousness Beyond Illusion — FINAL GITHUB PAGES UPLOAD
 
-A modern, contemplative web space dedicated to meditation, awareness, inner awakening, and conscious living.
+Upload these files directly to the ROOT of the repository:
 
-## About
+- index.html
+- style.css
+- brand-poster.jpg
+- founder-real.jpg
+- logo-mark.jpg
 
-**Consciousness Beyond Illusion** brings together 11+ years of spiritual service into an integrated digital experience. The platform focuses on:
+Do NOT upload the old screenshot versions.
 
-- **Mind** — clarity, attention and self-observation
-- **Body** — breath, movement and grounded presence  
-- **Soul** — inquiry, meaning and inner stillness
+After upload:
+Settings → Pages → Source: Deploy from a branch → main → /(root) → Save
 
-## The Journey
-
-A structured path toward awakening:
-
-1. **GROUND** — Return attention to body, breath and present moment
-2. **BREATHE** — Cultivate steadiness through conscious breathing
-3. **OBSERVE** — Notice patterns without identification
-4. **INQUIRE** — Explore identity and nature of awareness
-5. **INTEGRATE** — Bring insight into everyday life
-6. **LIVE** — Let practice become a grounded way of living
-
-## Features
-
-- **Live Workshops** — Guided meditation and awareness sessions
-- **Private Guidance** — Individual learning spaces for clarity and practice
-- **Knowledge Library** — Resources, maps and structured learning materials
-- **Consciousness Map** — Framework for experience, observation, inquiry and integration
-
-## Visit
-
-The website is live at: **https://consciousnessbeyondillusion.github.io**
-
----
-
-*A space for meditation, self-inquiry, conscious living and the journey from identification toward awareness.*
+The website is designed to use the supplied spiritual artwork and supplied founder/mentor visual.
+Contact email and registration/payment details are intentionally placeholders until official details are provided.
